@@ -46,7 +46,7 @@
         <spring-security-config.version>4.1.3.RELEASE</spring-security-config.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <knife4j.version>2.0.2</knife4j.version>
-        <guava.version>28.2-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
     </properties>
 
     <modules>
