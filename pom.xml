@@ -33,7 +33,7 @@
         <netty.version>4.1.42.Final</netty.version>
         <joda-time.version>2.9.4</joda-time.version>
         <quartz-scheduler.version>2.3.2</quartz-scheduler.version>
-        <httpclient.version>4.5.2</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <csv-version>2.4.0</csv-version>
         <fastjson.version>1.2.49</fastjson.version>
         <commons-collections4.version>4.1</commons-collections4.version>
